@@ -1,4 +1,3 @@
-GUI CALCULATOR CODE :- 
 from tkinter import *
 D = Tk()
 D.geometry("340x450")
