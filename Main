@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * 
 D = Tk()
 D.geometry("340x450")
 D.title("CALCULATOR")
